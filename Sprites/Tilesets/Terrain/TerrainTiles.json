@@ -1,0 +1,190 @@
+{
+	"variations": {
+		"default": {
+			"Day":
+			{
+			"SMB1": {"source": "Overworld.png"},
+			"SMBLL": {"source": "Overworld.png"},
+			"SMBANN": {"source": "Overworld.png"}
+		},
+		"Night": 
+			{
+			"SMB1": {"source": "Night/Overworld.png"},
+			"SMBLL": {"source": "Night/Overworld.png"},
+			"SMBANN": {"source": "Night/Overworld.png"}
+			}
+		},
+		"Underground": {
+			"SMB1": {
+				"source": "Underground.png"
+			},
+			"SMBLL": {
+				"source": "Underground.png"
+			},
+			"SMBANN": {
+				"source": "Underground.png"
+			}
+		},
+		"Desert": {
+			"Day":
+			{
+			"SMB1": {"source": "Desert.png"},
+			"SMBLL": {"source": "Desert.png"},
+			"SMBS": {"source": "Desert.png"},
+			"SMBANN": {"source": "Night/Desert.png"}
+		},
+			"Night": 
+			{
+			"SMB1": {"source": "Night/Desert.png"},
+			"SMBLL": {"source": "Night/Desert.png"},
+			"SMBS": {"source": "Night/Desert.png"},
+			"SMBANN": {"source": "Night/Desert.png"}
+			}
+		},
+		"Snow": {
+			"SMB1": {
+				"source": "Snow.png"
+			},
+			"SMBLL": {
+				"source": "Snow.png"
+			},
+			"SMBANN": {
+				"source": "Snow.png"
+			}
+		},
+		"Jungle": {
+			"Day":{
+			"SMB1": {"source": "Jungle.png"},
+			"SMBLL": {"source": "Jungle.png"},
+			"SMBANN": {"source": "Night/Jungle.png"}
+		},
+		    "Night": 
+			{
+			"SMB1": {"source": "Night/Jungle.png"},
+			"SMBLL": {"source": "Night/Jungle.png"},
+			"SMBANN": {"source": "Night/Jungle.png"}
+            }
+		},
+		"Beach": {
+			"Day":{
+			"SMB1": {"source": "Beach.png"},
+			"SMBLL": {"source": "Beach.png"}
+		},
+		 "Night": {
+			"SMB1": {"source": "Night/Jungle.png"},
+			"SMBLL": {"source": "Night/Jungle.png"},
+			"SMBANN": {"source": "Night/Jungle.png"}
+            }
+		},
+		"Garden": {
+			"Day":{
+			"SMB1": {"source": "Garden.png"},
+			"SMBLL": {"source": "Garden.png"}
+			},
+			"Night":{
+			"SMB1": {"source": "Night/Garden.png"},
+			"SMBLL": {"source": "Night/Garden.png"}
+			}
+		},
+		"Mountain": {
+			"Day":{
+			"SMB1": {"source": "Mountain.png"},
+			"SMBLL": {"source": "Mountain.png"}
+		},
+		"Night":{
+			"SMB1": {"source": "Night/Mountain.png"},
+			"SMBLL": {"source": "Night/Mountain.png"}
+	    	}
+		},
+		"Skyland": {
+			"Day":{
+			"SMB1": {"source": "Sky.png"},
+			"SMBLL": {"source": "Sky.png"},
+			"SMBANN": {"source": "Night/Sky.png"}
+		},
+			"Night": 
+			{
+			"SMB1": {"source": "Night/Sky.png"},
+			"SMBLL": {"source": "Night/Sky.png"},
+			"SMBANN": {"source": "Night/Sky.png"}
+			}
+		},
+		"Autumn": {
+			"Day":{
+			"SMB1": {"source": "Autumn.png"},
+			"SMBLL": {"source": "Autumn.png"}
+			},
+			"Night":{
+			"SMB1": {"source": "Night/Autumn.png"},
+			"SMBLL": {"source": "Night/Autumn.png"}
+			}
+		},
+		"Pipeland": {
+			"Day":{
+			"SMB1": {"source": "PipeLand.png"},
+			"SMBLL": {"source": "PipeLand.png"}
+		},
+		"Night":{
+			"SMB1": {"source": "Night/PipeLand.png"},
+			"SMBLL": {"source": "Night/PipeLand.png"}
+		    }
+		},
+		"Space": {
+			"SMB1": {"source": "Space.png"},
+			"SMBLL": {"source": "Space.png"}
+		},
+		"Underwater": {
+			"Day":{
+			"SMB1": {"source": "Underwater.png"},
+			"SMBLL": {"source": "Underwater.png"},
+			"SMBANN": {"source": "Underwater.png"}
+		},
+		"Night":{
+			"SMB1": {"source": "Night/Underwater.png"},
+			"SMBLL": {"source": "Night/Underwater.png"},
+			"SMBANN": {"source": "Night/Underwater.png"}
+		    }
+		},
+		"Volcano": {
+			"SMB1": {"source": "Volcano.png"},
+			"SMBLL": {"source": "Volcano.png"}
+		},
+		"GhostHouse": {
+			"SMB1": {"source": "GhostHouse.png"
+			},
+			"SMBLL": {"source": "GhostHouse.png"}
+		},
+		"Castle": {
+			"SMB1": {"source": "Castle.png"},
+			"SMBLL": {"source": "Castle.png"},
+			"SMBANN": {"source": "Castle.png"}
+		},
+		"CastleWater": {
+		"Day":{
+			"SMB1": {"source": "CastleWater.png"},
+			"SMBLL": {"source": "CastleWater.png"},
+			"SMBANN": {"link": "SMBLL"}
+		},
+		"Night":{
+			"SMB1": {"source": "Night/CastleWater.png"},
+			"SMBLL": {"source": "Night/CastleWater.png"},
+			"SMBANN": {"link": "SMBLL"}
+		    }
+		},
+		"Airship": {
+			"Day":{
+			"SMB1": {"source": "Airship.png"},
+			"SMBLL": {"source": "Airship.png"}
+		},
+		"Night":{
+			"SMB1": {"source": "Night/Airship.png"},
+			"SMBLL": {"source": "Night/Airship.png"}
+		    }
+		},
+		"Bonus": {
+			"SMB1": {"source": "Bonus.png"},
+			"SMBLL": {"source": "Bonus.png"}
+	    	}
+	    }
+    }
+ 

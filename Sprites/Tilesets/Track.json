@@ -1,0 +1,10 @@
+{
+	"variations": {
+		"default": {
+			"source": "Tracks/Overworld.png"
+			},
+			"Underground": {
+			"source": "Tracks/Underground.png"
+			},
+		}
+	}
