@@ -1,0 +1,25 @@
+{
+	"animations": {
+		"default": {
+			"frames": [[0, 0, 16, 16]],
+			"speed": 5.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"source": "CannonBall.png",
+			"rect": [0, 0, 16, 16]
+		},
+		"Underground": {
+			"source": "CannonBall.png",
+			"rect": [16, 0, 16, 16]
+		},
+		"GhostHouse": {"link": "Underground"},
+		"Volcano": {"link": "Underground"},
+		"Castle": {"link": "Underground"},
+		"Space": {"link": "Underground"},
+		"Bonus": {"link": "Underground"}
+		}
+	}
+

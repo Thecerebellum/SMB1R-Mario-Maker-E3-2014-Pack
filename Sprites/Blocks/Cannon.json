@@ -1,0 +1,17 @@
+{
+	"variations": {
+		"default": {
+			"source": "Cannon.png",
+			"rect": [0, 0, 48, 16]
+		},
+		"Underground": {
+			"source": "Cannon.png",
+			"rect": [48, 0, 48, 16]
+		},
+		"GhostHouse": {"link": "Underground"},
+		"Castle": {"link": "Underground"},
+		"Volcano": {"link": "Underground"},
+		"Space": {"link": "Underground"},
+		"Bonus": {"link": "Underground"}
+	}
+}

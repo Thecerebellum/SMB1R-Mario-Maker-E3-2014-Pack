@@ -1,0 +1,16 @@
+{
+	"animations": {
+		"default": {
+			"frames": [[0, 0, 32, 32]],
+			"speed": 5.0,
+			"loop": false
+		}
+	},
+	"variations": {
+		"default": {
+			"source": "LakituCloud.png",
+			"rect": [0, 0, 32, 32]
+		}
+	}
+}
+

@@ -1,0 +1,42 @@
+{
+	"animations": {
+		"Idle": {
+			"frames": [[0, 0, 16, 32]],
+			"speed": 5,
+			"loop": true
+		},
+		"Aim": {
+			"frames": [[16, 0, 16, 32]],
+			"speed": 5,
+			"loop": true
+		},
+		"Throw": {
+			"frames": [[32, 0, 16, 32]],
+			"speed": 5,
+			"loop": true
+		},
+		"Dead": {
+			"frames": [
+				[48, 0, 16, 32],
+				[64, 0, 16, 32]
+			],
+			"speed": 15,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"source": "RockyWrench.png",
+			"rect": [0, 0, 80, 32]
+		},
+		"Underground": {
+			"source": "RockyWrench.png",
+			"rect": [80, 0, 80, 32]
+		},
+		"GhostHouse": {"link": "Underground"},
+		"Castle": {"link": "Underground"},
+		"Volcano": {"link": "Underground"},
+		"Space": {"link": "Underground"},
+		"Bonus": {"link": "Underground"}
+	}
+}

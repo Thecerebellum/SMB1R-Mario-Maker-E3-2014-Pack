@@ -1,0 +1,47 @@
+{
+	"animations": {
+		"Idle": {
+			"frames": [[0, 0, 16, 16]],
+			"speed": 5,
+			"loop": false
+		},
+		"Turn": {
+			"frames": [
+				[0, 0, 16, 16],
+				[16, 0, 16, 16],
+				[32, 0, 16, 16],
+				[48, 0, 16, 16]
+			],
+			"speed": 10,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"source": "TurnBlock.png",
+			"rect": [0, 0, 64, 96]
+		},
+		"Underground": {
+			"source": "TurnBlock.png",
+			"rect": [0, 16, 64, 96]
+		},
+		"GhostHouse": {"link": "Underground"},
+		"Castle": {
+			"source": "TurnBlock.png",
+			"rect": [0, 32, 64, 96]
+		},
+		"Snow": {"link": "Castle"},
+		"Space": {
+			"source": "TurnBlock.png",
+			"rect": [0, 64, 64, 96]
+		},
+		"Volcano": {
+			"source": "TurnBlock.png",
+			"rect": [0, 80, 64, 96]
+		},
+		"Bonus": {
+			"source": "TurnBlock.png",
+			"rect": [0, 48, 64, 96]
+		}
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"animations": {
+		"Walk": {
+			"frames": [
+				[0.0, 0.0, 16.0, 16.0], [16.0, 0.0, 16.0, 16.0]
+			],
+			"speed": 5.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"source": "BuzzyBeetle.png",
+			"rect": [0.0, 0.0, 32.0, 16.0]
+		},
+		"Underground": {
+              "source": "BuzzyBeetle.png",
+			"rect": [0.0, 16.0, 32.0, 16.0]
+		},
+		"GhostHouse": {"link": "Underground"},
+		"Volcano": {"link": "Underground"},
+		"Castle": {"link": "Underground"},
+		"Space": {"link": "Underground"},
+		"Bonus": {"link": "Underground"}
+	}
+}
