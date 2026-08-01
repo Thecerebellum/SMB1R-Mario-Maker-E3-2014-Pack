@@ -1,0 +1,33 @@
+{
+	"variations": {
+		"SMB1": {
+			"default": {
+				"config:Campaign Logo": {
+					 "Super Mario Bros": {"source": "TitleLogoA/TitleSMB1.png", "rect": [0, 0, 176, 88], "properties": {"star_offset_x": 0, "star_offset_y": -0}},
+					 "Mario Maker": {"source": "TitleLogoA/TitleSMB1Maker.png", "rect": [0, 0, 176, 88], "properties": {"star_offset_x": 0, "star_offset_y": -0}},
+					 "Mario Maker (SMB Branding)": {"source": "TitleLogoA/TitleSMB1Super.png", "rect": [0, 0, 176, 88], "properties": {"star_offset_x": 0, "star_offset_y": -0}}
+		}}},
+		"SMBS": {
+		"default": {
+				"config:Campaign Logo": {
+					 "Super Mario Bros": {"source": "TitleLogoA/TitleSMBS.png", "rect": [0, 0, 176, 88], "properties": {"star_offset_x": 0, "star_offset_y": -0}},
+					 "Mario Maker": {"source": "TitleLogoA/TitleSMBSMaker.png", "rect": [0, 0, 176, 88], "properties": {"star_offset_x": 0, "star_offset_y": -0}},
+					 "Mario Maker (SMB Branding)": {"source": "TitleLogoA/TitleSMBSSuper.png", "rect": [0, 0, 176, 88], "properties": {"star_offset_x": 0, "star_offset_y": -0}}
+		}}},
+		"SMBLL": {
+		"default": {
+				"config:Campaign Logo": {
+					 "Super Mario Bros": {"source": "TitleLogoA/TitleSMBLL.png", "rect": [0, 0, 176, 88], "properties": {"star_offset_x": 0, "star_offset_y": -0}},
+					 "Mario Maker": {"source": "TitleLogoA/TitleSMBLLMaker.png", "rect": [0, 0, 176, 88], "properties": {"star_offset_x": 0, "star_offset_y": -0}},
+					 "Mario Maker (SMB Branding)": {"source": "TitleLogoA/TitleSMBLLSuper.png", "rect": [0, 0, 176, 88], "properties": {"star_offset_x": 0, "star_offset_y": -0}}
+		}}},
+		"SMBANN": {
+             "default": {
+				"config:Campaign Logo": {
+					 "Super Mario Bros": {"source": "TitleLogoA/TitleSMBANN.png", "rect": [0, 0, 176, 88], "properties": {"star_offset_x": 0, "star_offset_y": -0}},
+					 "Mario Maker": {"source": "TitleLogoA/TitleSMBANNMaker.png", "rect": [0, 0, 176, 88], "properties": {"star_offset_x": 0, "star_offset_y": -0}},
+					 "Mario Maker (SMB Branding)": {"source": "TitleLogoA/TitleSMBANNSuper.png", "rect": [0, 0, 176, 88], "properties": {"star_offset_x": 0, "star_offset_y": -0}}
+		}}}
+		}
+	}
+
