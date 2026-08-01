@@ -1,0 +1,146 @@
+{
+	"properties": {
+		"can_mushroom_tint": true
+	},
+	"variations": {
+		"default": {
+			"SMB1": {
+				"Day": {
+					"source": "BlankTexture.png"
+				},
+				"Night": {
+					"source": "BlankTexture.png"
+				}
+			},
+			"SMBLL": {
+				"Day": {
+					"source": "BlankTexture.png"
+				},
+				"Night": {
+					"source": "BlankTexture.png"
+				}
+			}
+		},
+		"Underground": {
+			"SMB1": {
+				"source": "BlankTexture.png"
+			},
+			"SMBLL": {
+				"source": "BlankTexture.png"
+			}
+		},
+		"Snow": {
+			"SMB1": {
+				"Day": {
+					"source": "BlankTexture.png"
+				},
+				"Night": {
+					"source": "BlankTexture.png"
+				}
+			},
+			"SMBLL": {
+				"Day": {
+					"source": "BlankTexture.png"
+				},
+				"Night": {
+					"source": "BlankTexture.png"
+				}
+			}
+		},
+		"Volcano": {
+			"SMB1": {
+				"source": "BlankTexture.png"
+			},
+			"SMBLL": {
+				"source": "BlankTexture.png"
+			}
+		},
+		"Airship": {
+			"SMB1": {
+				"Day": {
+					"source": "BlankTexture.png"
+				},
+				"Night": {
+					"source": "BlankTexture.png"
+				}
+			},
+			"SMBLL": {
+				"Day": {
+					"source": "BlankTexture.png"
+				},
+				"Night": {
+					"source": "BlankTexture.png"
+				}
+			}
+		},
+		"Beach": {
+			"SMB1": {
+				"Day": {
+					"source": "BlankTexture.png"
+				},
+				"Night": {
+					"source": "BlankTexture.png"
+				}
+			},
+			"SMBLL": {
+				"Day": {
+					"source": "BlankTexture.png"
+				},
+				"Night": {
+					"source": "BlankTexture.png"
+				}
+			}
+		},
+		"Space": {
+			"SMB1": {
+				"Day": {
+					"source": "BlankTexture.png"
+				},
+				"Night": {
+					"source": "BlankTexture.png"
+				}
+			},
+			"SMBLL": {
+				"Day": {
+					"source": "BlankTexture.png"
+				},
+				"Night": {
+					"source": "BlankTexture.png"
+				}
+			}
+		},
+		"Underwater": {
+			"SMB1": {
+				"Day": {
+					"source": "BlankTexture.png",
+					"properties": {
+						"can_mushroom_tint": false
+					}
+				},
+				"Night": {
+					"source": "BlankTexture.png",
+					"properties": {
+						"can_mushroom_tint": false
+					}
+				}
+			},
+			"SMBLL": {
+				"Day": {
+					"source": "BlankTexture.png",
+					"properties": {
+						"can_mushroom_tint": false
+					}
+				},
+				"Night": {
+					"source": "BlankTexture.png",
+					"properties": {
+						"can_mushroom_tint": false
+					}
+				}
+			}
+		},
+		"CastleWater": {
+			"link": "Underwater"
+		}
+	}
+}

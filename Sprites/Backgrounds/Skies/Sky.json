@@ -1,0 +1,57 @@
+{
+	"properties": {
+		"sky_scroll_speed": 0,
+	"top_edge_enabled": false
+	},
+	"variations": {
+		 "Day": {
+			"default": {
+				"SMB1": {"source": "DaySky.png"},
+				"SMBLL": {"source": "DaySky.png"}
+			},
+			"Beach":
+			{
+				"SMB1": {"source": "BeachSky.png"},
+				"SMBLL": {"source": "BeachSky.png"}
+			},
+			"Autumn": {
+				"SMB1": {"source": "AutumnSky.png"},
+				"SMBLL": {"source": "AutumnSky.png"}
+			},
+			"Volcano": {
+				"SMB1": {"source": "VolcanoSky.png"},
+				"SMBLL": {"source": "VolcanoSky.png"}
+			},
+			"Underground": {
+				"SMB1": {"source": "TheVoid.png"}
+			},
+			"GhostHouse": {
+				"SMB1": {"source": "TheVoid.png"}
+			},	
+			"Space": {
+				"SMB1": {"source": "SpaceSky.png"}
+				}
+		    },
+		"Night": {
+			"default": {
+			   "SMB1": {"source": "NightSky.png",},
+			   "SMBLL": {"source": "NightSky.png"}
+			   },
+			"Underground": {
+				"SMB1": {"source": "TheVoid.png"}
+			},
+			"Castle": {
+				"SMB1": {"source": "NightSky.png"}
+			},	
+			"GhostHouse": {
+				"SMB1": {"source": "NightSky.png"}
+			},	
+			"Space": {
+				"SMB1": {"source": "SpaceSky.png"}
+		    		}
+		    	}
+	    	}
+	    }
+    
+
+

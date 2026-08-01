@@ -1,0 +1,124 @@
+{
+	"variations": {
+		"default": {
+			"SMB1": {
+				"Day": {"source": "Bush.png"},
+				"Night": {"source": "BushNight.png"}
+			},
+			"SMBLL": {
+				"Day": {"source": "BushLL.png"},
+				"Night": {"source": "BushNight.png"}
+			}
+		},
+		"Jungle": {
+			"SMB1": {
+				"Day": {"source": "JungleBush.png"},
+				"Night": {"source": "JungleBushNight.png"}
+			},
+			"SMBLL": {
+				"Day": {"source": "JungleBush.png"},
+				"Night": {"source": "JungleBushNight.png"}
+			},
+		},
+		"Snow": {
+			"SMB1": {
+				"Day": {"source": "SnowBush.png"},
+				"Night": {"source": "SnowBushNight.png"}
+			},
+			"SMBLL": {
+				"Day": {"source": "SnowBush.png"},
+				"Night": {"source": "SnowBushNight.png"}
+			},
+		},
+		"Autumn": {
+			"SMB1": {
+				"Day": {"source": "AutumnBush.png"},
+				"Night": {"source": "AutumnBushNight.png"}
+			},
+			"SMBLL": {
+				"Day": {"source": "AutumnBush.png"},
+				"Night": {"source": "AutumnBushNight.png"}
+			},
+		},
+		"Castle": {
+			"SMB1": {
+				"Day": { "source": "BlankBush.png" },
+				"Night": { "source": "BlankBush.png" }
+			},
+			"SMBLL": {
+				"Day": { "source": "BlankBush.png" },
+				"Night": { "source": "BlankBush.png" }
+			}
+		},
+		"CastleWater": {
+			"SMB1": {
+				"Day": { "source": "BlankBush.png" },
+				"Night": { "source": "BlankBush.png" }
+			}
+		},
+		"Airship": {
+			"SMB1": {
+				"Day": { "source": "BlankBush.png" },
+				"Night": { "source": "BlankBush.png" }
+			}
+		},
+		"Volcano": {
+			"SMB1": { "source": "VolcanoBush.png" },
+			"SMBLL": { "source": "VolcanoBush.png" }
+		},
+		"Underground": {
+			"SMB1": {
+				"Day": { "source": "UndergroundBush.png" },
+				"Night": { "source": "UndergroundBushNight.png" }
+				}
+		},
+		"Space": {
+			"SMB1": { "source": "SpaceBush.png" },
+			"SMBLL": { "source": "SpaceBush.png" }
+		},
+		"Garden": {
+			"SMB1": {
+				"Day": { "source": "GardenBush.png" },
+				"Night": { "source": "GardenBushNight.png" }
+			},
+			"SMBLL": {
+				"Day": { "source": "GardenBush.png" },
+				"Night": { "source": "GardenBushNight.png" }
+			}
+		},
+		"Desert": {
+			"SMB1": {
+				"Day": { "source": "DesertBush.png" },
+				"Night": { "source": "DesertBushNight.png" }
+			},
+			"SMBLL": {
+				"Day": { "source": "DesertBush.png" },
+				"Night": { "source": "DesertBushNight.png" }
+			}
+		},
+		"Underwater": {
+			"SMB1": {
+				"Day": { "source": "BlankBush.png" },
+				"Night": { "source": "BlankBush.png" }
+			},
+			"SMBLL": {
+				"Day": { "source": "BlankBush.png" },
+				"Night": { "source": "BlankBush.png" }
+			}
+		},
+		"GhostHouse": {
+			"SMB1": { "source": "BlankBush.png" },
+			"SMBLL": { "source": "BlankBush.png" }
+		},
+		"Bonus": {
+			"SMB1": {
+				"Day": { "source": "BlankBush.png" },
+				"Night": { "source": "BlankBush.png" }
+			},
+			"SMBLL": {
+				"Day": { "source": "BlankBush.png" },
+				"Night": { "source": "BlankBush.png" }
+			}
+		}
+	}
+}
