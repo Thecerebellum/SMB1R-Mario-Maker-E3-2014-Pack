@@ -17,5 +17,18 @@
 			"loop": false
 		}
 	},
-	"variations": {"source": "CheckpointFlag.png"}
-}
+	"variations": {
+		"default": {
+	    	"source": "CheckpointFlag.png",
+	    	"rect": [0, 0, 128, 32]
+	    	},
+		"Underground": {
+	    	"source": "CheckpointFlag.png",
+	    	"rect": [0, 32, 128, 32]
+	    	},
+		"GhostHouse": {"link": "Underground"},
+		"Castle": {"link": "Underground"},
+		"Volcano": {"link": "Underground"},
+		"Space": {"link": "Underground"},
+		"Bonus": {"link": "Underground"}
+}}
