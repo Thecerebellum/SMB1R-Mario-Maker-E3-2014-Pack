@@ -1,0 +1,38 @@
+{
+	"animations": {
+		"default": {
+			"frames": [[0, 0, 16, 16]],
+			"speed": 5,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"SMB1": {
+				"source": "PoisonMushroom.png",
+				"rect": [0, 0, 16, 16]
+			},
+			"SMBLL": {
+				"source": "PoisonMushroom.png",
+				"rect": [0, 0, 16, 16]
+			},
+			"SMBANN": {"link": "SMBLL"}
+		},
+		"Underground": {
+			"SMB1": {
+				"source": "PoisonMushroom.png",
+				"rect": [16, 0, 16, 16]
+			},
+			"SMBLL": {
+				"source": "PoisonMushroom.png",
+				"rect": [16, 0, 16, 16]
+			},
+			"SMBANN": {"link": "SMBLL"}
+		},
+		"GhostHouse": {"link": "Underground"},
+		"Castle": {"link": "Underground"},
+		"Volcano": {"link": "Underground"},
+		"Space": {"link": "Underground"},
+		"Bonus": {"link": "Underground"}
+	}
+}
