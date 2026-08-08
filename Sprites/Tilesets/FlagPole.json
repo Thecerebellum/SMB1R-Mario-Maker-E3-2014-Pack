@@ -1,0 +1,8 @@
+{
+	"variations": {
+		"default": {
+			"source": "FlagPole.png",
+			"rect": [0, 0, 16, 176]
+		}
+	}
+}
