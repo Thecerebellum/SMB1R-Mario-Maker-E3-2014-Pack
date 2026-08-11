@@ -1,0 +1,33 @@
+{
+	"variations": {
+		"default": {
+			"choices": [
+				{
+					"source": "SpikeBallDestructionParticles.png",
+					"rect": [0, 0, 8, 8]
+				},
+				{
+					"source": "SpikeBallDestructionParticles.png",
+					"rect": [8, 0, 8, 8]
+				}
+			]
+		},
+		"Underground": {
+			"choices": [
+				{
+					"source": "SpikeBallDestructionParticles.png",
+					"rect": [0, 8, 8, 8]
+				},
+				{
+					"source": "SpikeBallDestructionParticles.png",
+					"rect": [8, 8, 8, 8]
+				}
+			]
+		},
+		"GhostHouse": {"link": "Underground"},
+		"Castle": {"link": "Underground"},
+		"Space": {"link": "Underground"},
+		"Volcano": {"link": "Underground"},
+		"Bonus": {"link": "Underground"}
+	}
+}

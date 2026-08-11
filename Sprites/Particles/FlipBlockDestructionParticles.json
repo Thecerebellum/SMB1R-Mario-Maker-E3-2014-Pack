@@ -1,0 +1,30 @@
+{
+	"variations": {
+		"default": {
+			"source": "FlipBlockDestructionParticles.png",
+			"rect": [0, 0, 16, 16]
+		},
+		"Underground": {
+			"source": "FlipBlockDestructionParticles.png",
+			"rect": [16, 0, 16, 16]
+		},
+		"GhostHouse": {"link": "Underground"},
+		"Castle": {
+			"source": "FlipBlockDestructionParticles.png",
+			"rect": [0, 16, 16, 16]
+		},
+		"Snow": {"link": "Castle"},
+		"Space": {
+			"source": "FlipBlockDestructionParticles.png",
+			"rect": [0, 32, 16, 16]
+		},
+		"Volcano": {
+			"source": "FlipBlockDestructionParticles.png",
+			"rect": [16, 32, 16, 16]
+		},
+		"Bonus": {
+			"source": "FlipBlockDestructionParticles.png",
+			"rect": [16, 16, 16, 16]
+		}
+	}
+}
