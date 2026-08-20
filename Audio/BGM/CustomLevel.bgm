@@ -1,0 +1,10 @@
+{
+	"Normal": {
+		"source": "CustomLevel.mp3",
+		"loop": 7.257
+	},
+	"Hurry": {
+		"source": "CustomLevel.mp3",
+		"loop": 7.257
+	}
+}
