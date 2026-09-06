@@ -78,7 +78,7 @@
 		},
 		"Underground": {
 				"source": "Goombrat.png",
-				"rect": [48, 0, 544, 32]
+				"rect": [0, 16, 544, 16]
 		},
 		"Castle": {"link": "Underground"},
 		"Volcano": {"link": "Underground"},
