@@ -42,6 +42,7 @@
 			"source": "BuzzyBeetle.png",
 			"rect": [0, 16, 528, 32]},
 		"GhostHouse": {"link": "Underground"},
+		"Castle": {"link": "Underground"},
 		"Volcano": {"link": "Underground"},
 		"Space": {"link": "Underground"},
 		"Bonus": {"link": "Underground"}

@@ -81,6 +81,7 @@
 				"rect": [0, 16, 544, 16]
 		},
 		"Castle": {"link": "Underground"},
+		"GhostHouse": {"link": "Underground"},
 		"Volcano": {"link": "Underground"},
 		 "Space": {"link": "Underground"},
 	"Bonus": {"link": "Underground"}

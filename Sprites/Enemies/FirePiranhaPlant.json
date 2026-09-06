@@ -49,12 +49,12 @@
 			"loop": true
 		},
 		"IdleUp": {
-			"frames": [[32, 0, 32, 32]],
+			"frames": [[0, 0, 32, 32]],
 			"speed": 5.0,
 			"loop": false
 		},
 		"IdleDown": {
-			"frames": [[32, 32, 32, 32]],
+			"frames": [[0, 32, 32, 32]],
 			"speed": 5.0,
 			"loop": false
 		}

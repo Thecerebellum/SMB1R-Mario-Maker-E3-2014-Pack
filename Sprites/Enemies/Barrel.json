@@ -13,7 +13,16 @@
 		"default": {
 			"source": "Barrel.png",
 			"rect": [0, 0, 32, 16]
-		}
+		},
+		"Underground": {
+			"source": "Barrel.png",
+			"rect": [32, 0, 32, 16]
+		},
+		"GhostHouse": {"link": "Underground"},
+		"Volcano": {"link": "Underground"},
+		"Castle": {"link": "Underground"},
+		"Space": {"link": "Underground"},
+		"Bonus": {"link": "Underground"}
 	}
 }
 

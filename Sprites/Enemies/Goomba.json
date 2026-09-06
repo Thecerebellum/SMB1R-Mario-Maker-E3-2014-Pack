@@ -77,45 +77,11 @@
 				"rect": [0, 16, 544, 16]
 	        }
         },
-		"Castle": {
-			"SMB1": {
-				"source": "Goomba.png",
-				"rect": [0, 16, 544, 16]
-			},
-			"SMBANN": {
-				"source": "DiscoGoomba.png",
-				"rect": [0, 16, 544, 16]
-			}
-		},
-		"Volcano": {
-			"SMB1": {
-				"source": "Goomba.png",
-				"rect": [0, 16, 544, 16]
-			},
-			"SMBANN": {
-				"source": "DiscoGoomba.png",
-				"rect": [0, 16, 544, 16]
-			}
-		},
-	    "Space": {
-			"SMB1": {
-				"source": "Goomba.png",
-				"rect": [0, 16, 544, 16]
-			},
-			"SMBANN": {
-				"source": "DiscoGoomba.png",
-				"rect": [0, 16, 544, 16]
-			}
-		},
-		"Bonus": {
-			"SMB1": {
-				"source": "Goomba.png",
-				"rect": [0, 16, 544, 16]
-			},
-			"SMBANN": {
-				"source": "DiscoGoomba.png",
-				"rect": [0, 16, 544, 16]
-			}
+		"Castle": {"link": "Underground"},
+		"Volcano": {"link": "Underground"},
+	    "Space": {"link": "Underground"},
+		"GhostHouse": {"link": "Underground"},
+		"Bonus": {"link": "Underground"}
 		}
 	}
-}
+
