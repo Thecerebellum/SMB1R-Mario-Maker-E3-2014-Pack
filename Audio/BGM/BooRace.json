@@ -1,0 +1,6 @@
+{
+	"variations": {
+		"Level1": {"source": "BooRace.bgm"},
+	    "Level4": {"source": "Castle.bgm"}
+	}	
+}	
